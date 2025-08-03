@@ -123,10 +123,10 @@
 	}
 
 	.profile-avatar {
-		width: 40px;
-		height: 40px;
-		min-width: 40px;
-		border-radius: 50%;
+		width: 10%;
+		height: 10%;
+		min-width: 50px;
+		border-radius: 10%;
 		margin-bottom: 0;
 	}
 

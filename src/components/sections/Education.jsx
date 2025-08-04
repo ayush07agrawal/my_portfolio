@@ -18,7 +18,7 @@ function Education() {
       degree: "Higher Secondary Education (Class XII, CBSE Board)",
       institution: "Siddhartha Public School",
       location: "Bargarh, Odisha",
-      duration: "2020-2022",
+      duration: "2020 - 2022",
       cgpa: "97.8%",
       highlights: [
         "School Topper",
@@ -27,10 +27,10 @@ function Education() {
       ]
     },
     {
-      degree: "Secondary Education (Class X, CBSE Board)",
+      degree: "Secondary Education (Class I - Class X, CBSE Board)",
       institution: "Siddhartha Public School",
       location: "Bargarh, Odisha",
-      duration: "2020-2022",
+      duration: "2010 - 2020",
       cgpa: "98%",
       highlights: [
         "School Topper",
